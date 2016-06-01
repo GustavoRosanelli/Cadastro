@@ -1,0 +1,9 @@
+c:\users\gustavo\documents\visual studio 2012\Projects\Aplication\Aplication\bin\Debug\Aplication.exe.config
+c:\users\gustavo\documents\visual studio 2012\Projects\Aplication\Aplication\obj\Debug\Aplication.csprojResolveAssemblyReference.cache
+c:\users\gustavo\documents\visual studio 2012\Projects\Aplication\Aplication\obj\Debug\Aplication.Properties.Resources.resources
+c:\users\gustavo\documents\visual studio 2012\Projects\Aplication\Aplication\obj\Debug\Aplication.csproj.GenerateResource.Cache
+c:\users\gustavo\documents\visual studio 2012\Projects\Aplication\Aplication\bin\Debug\Aplication.exe
+c:\users\gustavo\documents\visual studio 2012\Projects\Aplication\Aplication\bin\Debug\Aplication.pdb
+c:\users\gustavo\documents\visual studio 2012\Projects\Aplication\Aplication\obj\Debug\Aplication.exe
+c:\users\gustavo\documents\visual studio 2012\Projects\Aplication\Aplication\obj\Debug\Aplication.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Aplication\Aplication\obj\Debug\Aplication.CadastroPronto.resources
